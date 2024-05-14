@@ -20,11 +20,13 @@
                     <div class="bg-light rounded-4 py-5 px-4 px-md-5">
                         <div class="text-center mb-5">
                             <div class="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 mb-3"> <img src="assets/eyes.png" alt="..." style="width: 100px; height: auto;"></div>
-                            <h1 class="fw-bolder">Mulai Tes Ishihara</h1>
-                            <p class="lead fw-normal text-muted mb-0">silahkan isi data diri!</p>
-                            <h6 class="text-center"><b>(Data anda akan kami simpan dan bersifat rahasia)</b></h6>
+                            <h1 class="fw-bolder">Hasil Tes Anda</h1>
                         </div>
-        <div class="row gx-5 justify-content-center">
+                        <p class="lead fw-normal text-muted mb-0">ID Tes: 121321</p>
+                        <hr>
+                        <p>Nama: Kevin <br> Alamat: Tuminting <br>Umur: 15-25tahun <br>Jenis Kelamin: Laki-laki</p>
+                        <hr>
+                        <div class="row gx-5 justify-content-center">
                                  <div class="col-lg-11 col-xl-9 col-xxl-8">
                                      <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
                                          <div class="card-body p-0">
