@@ -289,7 +289,7 @@
                                                      <p>Angka yang terdapat pada plate ini?</p>
                                                      
                                                       <div class="radio-select">
-                                                            <input type="radio" name="options9" value="11">
+                                                            <input type="radio" name="options9" value="1">
                                                             <label for="option1">2</label>
                                                              <br>
                                                             <input type="radio" name="options9" value="2">
