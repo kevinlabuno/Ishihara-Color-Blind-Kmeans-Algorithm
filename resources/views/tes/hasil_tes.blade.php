@@ -29,7 +29,10 @@
                             <div class="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 mb-3"> <img src="assets/eyes.png" alt="..." style="width: 100px; height: auto;"></div>
                             <h1 class="fw-bolder">Hasil Tes Anda</h1>
                         </div>
+                        <div class="d-flex justify-content-between align-items-center">
                         <p class="lead fw-normal text-muted mb-0">ID Tes: &nbsp;&nbsp;&nbsp;<b>{{$data->id}}</b></p>
+                        <a href="" class="btn btn-success"><i class="bi bi-download"></i>&nbsp; <i> Export Data</i></a>
+                        </div>
                         <hr>
                         <p>Nama:&nbsp;&nbsp;&nbsp; <b> {{$data->nama}}</b>  <br> Alamat:&nbsp;&nbsp;&nbsp;<b>{{$data->alamat}}</b>  <br>Umur:&nbsp;&nbsp;&nbsp;<b>{{$data->umur}}</b> <br>Jenis Kelamin:&nbsp;&nbsp;&nbsp;<b>{{$data->jenis}}</b> </p>
                         <hr>
