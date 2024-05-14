@@ -48,6 +48,8 @@ class TesController extends Controller
     }
 
     public function hasil_tes(){
-        return view('tes.hasil_tes');
+        $user = Data::all();
+        $data= $user->last();
+        return view('tes.hasil_tes', compact('data'));
     }
 }
