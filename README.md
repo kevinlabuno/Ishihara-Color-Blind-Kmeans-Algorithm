@@ -47,9 +47,11 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
-## Contributing
+## Konfigurasi
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Git Clone ke directory folder yang telah dibuat.
+- Buka terminal pada directory folder jalankan "Composer Install".
+- Jalankan "composer require setasign/fpdf" dan "composer require setasign/fpdi".
 
 ## Code of Conduct
 
